@@ -1,2 +1,2 @@
-This game by Gemini_AI
-Author:maksblack
+#Крутой кликер
+От maksblack советую поиграть
